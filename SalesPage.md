@@ -8,7 +8,7 @@ BMI085 breakouts $12
 They are on bmi088 breakout boards as a way to use up the remaining stock.
 ![IMG_20220322_070225__01](https://user-images.githubusercontent.com/59792598/159499571-0ebe81cd-bd79-404c-96c6-3922a4372237.jpg)
 
-BMI088 sensor only $6.89
+BMI085 sensor only $6.89
 ![download (16)](https://user-images.githubusercontent.com/59792598/159500159-8c61684a-0391-4169-8610-528cec2f0a2d.jpg)
 
 BMI088 sensor only $8   
