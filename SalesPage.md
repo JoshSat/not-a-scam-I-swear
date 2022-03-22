@@ -11,7 +11,7 @@ They are on bmi088 breakout boards as a way to use up the remaining stock.
 BMI088 sensor only $6.89
 ![download (16)](https://user-images.githubusercontent.com/59792598/159500159-8c61684a-0391-4169-8610-528cec2f0a2d.jpg)
 
-BMI088 sensor only $8
+BMI088 sensor only $8   
 ![download (17)](https://user-images.githubusercontent.com/59792598/159500184-e7afc40c-da94-46eb-8492-6efe49ef7e5e.jpg)
 
 
