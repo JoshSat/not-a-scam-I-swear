@@ -17,7 +17,7 @@ BMI088 sensor only $8
 
 Quantity may vary.
 All sales are by request and if stock is not avaiable it will be stated here or you will be contacted with how much remains.
-Paymenyt by paypal or crypto of your choice.
+Paymeny by paypal or crypto of your choice.
 
 Some nations are currently under sanctions or in continual conflict. Sales to those nations will be rejected and sales to nations frendly to those may also be rejected.
 
