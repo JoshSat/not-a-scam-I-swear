@@ -33,7 +33,7 @@ Order request form:
 
 If order cannot be completed as requested you will be contacted.
 Payment only after all details are confirmed and you have been sent an invoice.
-Tacking number will be sent once payment has been recived and item shipped.
+Tacking number will be sent once payment has been received and item shipped.
 
 https://github.com/JoshSat/storepage/blob/main/order%20from%202022%20v1.odt
          
